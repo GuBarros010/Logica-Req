@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Logica222\bin\Debug\net5.0\Logica222.exe
+C:\Users\dev\Desktop\Logica222\bin\Debug\net5.0\Logica222.deps.json
+C:\Users\dev\Desktop\Logica222\bin\Debug\net5.0\Logica222.runtimeconfig.json
+C:\Users\dev\Desktop\Logica222\bin\Debug\net5.0\Logica222.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Logica222\bin\Debug\net5.0\Logica222.dll
+C:\Users\dev\Desktop\Logica222\bin\Debug\net5.0\ref\Logica222.dll
+C:\Users\dev\Desktop\Logica222\bin\Debug\net5.0\Logica222.pdb
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\Logica222.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\Logica222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\Logica222.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\Logica222.AssemblyInfo.cs
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\Logica222.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\Logica222.dll
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\ref\Logica222.dll
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\Logica222.pdb
+C:\Users\dev\Desktop\Logica222\obj\Debug\net5.0\Logica222.genruntimeconfig.cache
